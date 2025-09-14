@@ -68,4 +68,4 @@ Finance KPI Dashboard – Power BI
    Implement forecasting models for future sales projections.
 
  Screenshots:
-  Here’s how the dashboard looks:
+  Here’s how the dashboard looks:https://github.com/Prem-119/Fianace-KPI-Dashboard/blob/main/Finance%20KPI%20Dashboard.png
